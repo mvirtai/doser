@@ -1,0 +1,7 @@
+[project]
+name = "doser"
+version = "0.1.0"
+description = "Application to keep track of drug use according to drug's list."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
