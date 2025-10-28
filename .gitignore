@@ -12,7 +12,7 @@ venv/
 env/
 
 # Testing
-.pytest_cache/
+.py
 .coverage
 htmlcov/
 
